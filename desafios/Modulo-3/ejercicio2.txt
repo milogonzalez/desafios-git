@@ -1,0 +1,2 @@
+git switch master
+git merge front-react

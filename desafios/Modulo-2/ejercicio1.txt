@@ -1,0 +1,4 @@
+git clone <url repositorio GitHub>
+git add .
+git commit -m "Dia Martes Inicio"
+git push origin head

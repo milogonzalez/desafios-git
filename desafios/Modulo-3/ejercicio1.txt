@@ -1,0 +1,7 @@
+git stash
+git branch master
+git add .
+git commit -m "modificacion"
+git push origin main
+git branch custom-navbar
+git stash apply
